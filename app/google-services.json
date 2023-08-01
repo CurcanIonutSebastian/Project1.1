@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "288044056550",
+    "project_id": "tpl-soferi",
+    "storage_bucket": "tpl-soferi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288044056550:android:77d7d3a1a52dc7dcd8e027",
+        "android_client_info": {
+          "package_name": "com.example.tpl_soferi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288044056550-6704clasrikm6b1hl07qa3spjqrgt6td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2iXQFVI9MNIGVqOiRHCM4dJMpo0y2Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288044056550-6704clasrikm6b1hl07qa3spjqrgt6td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288044056550:android:26b44583fd617083d8e027",
+        "android_client_info": {
+          "package_name": "com.example.tplsoferi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288044056550-6704clasrikm6b1hl07qa3spjqrgt6td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2iXQFVI9MNIGVqOiRHCM4dJMpo0y2Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288044056550-6704clasrikm6b1hl07qa3spjqrgt6td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

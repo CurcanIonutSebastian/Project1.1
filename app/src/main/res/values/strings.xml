@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TPLSoferi</string>
+    <string name="title_activity_alegere_linie">AlegereLinie</string>
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_harta">Harta</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Alege">Alege linia</string>
+</resources>
